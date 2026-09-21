@@ -1,0 +1,6 @@
+Name,Email,Company,Source
+John Doe,john@soundtherapy.com,Sound Therapy Inc,Google
+Jane Smith,jane@wellness.org,Wellness Org,LinkedIn
+Invalid User,not-an-email,,
+Sarah Connor,sarah@skynet.com,Cyberdyne,Manual
+Empty Name,,Unknown Company,Facebook
